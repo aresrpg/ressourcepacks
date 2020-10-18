@@ -2,7 +2,7 @@
 "__comment": "3D par BillyTheSheep texture par Rozone Scale par MrSceat",
 "ambientocclusion": false,
 "textures": {
-    "Malurion": "items/stick"
+    "Malurion": "item/stick"
 },
 "elements": [ 
 {
