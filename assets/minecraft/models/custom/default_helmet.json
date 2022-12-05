@@ -1,0 +1,11 @@
+{
+  "credit": "AresRPG generated | https://aresrpg.world",
+  "parent": "item/handheld",
+  "texture_size": [
+    32,
+    32
+  ],
+  "textures": {
+    "layer0": "custom/default_helmet"
+  }
+}
