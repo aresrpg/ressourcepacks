@@ -1,7 +1,0 @@
-project_id: '428084'
-base_path: .
-base_url: 'https://api.crowdin.com'
-preserve_hierarchy: true
-files:
-  - source: /assets/minecraft/lang/en_us.json
-    translation: /assets/minecraft/lang/%locale_with_underscore%.json
