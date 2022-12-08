@@ -6,45 +6,51 @@
   "overrides": [
     {
       "predicate": {
-        "custom_model_data": 13133
+        "custom_model_data": 4032
       },
-      "model": "custom/default_axe"
+      "model": "custom/Necklace"
     },
     {
       "predicate": {
-        "custom_model_data": 20284
-      },
-      "model": "custom/default_bow"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 22492
-      },
-      "model": "custom/wolf_gravestone"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 44150
-      },
-      "model": "custom/default_sword"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 72706
-      },
-      "model": "custom/default_stick"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 75906
-      },
-      "model": "custom/default_necklace"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 79561
+        "custom_model_data": 8794
       },
       "model": "custom/default_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25673
+      },
+      "model": "custom/Stick"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36999
+      },
+      "model": "custom/Sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37069
+      },
+      "model": "custom/Ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40896
+      },
+      "model": "custom/Bow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48762
+      },
+      "model": "custom/Axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 68780
+      },
+      "model": "custom/Belt"
     }
   ]
 }
