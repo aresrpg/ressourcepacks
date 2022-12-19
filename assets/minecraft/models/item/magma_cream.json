@@ -6,6 +6,12 @@
   "overrides": [
     {
       "predicate": {
+        "custom_model_data": 647
+      },
+      "model": "custom/default_necklace"
+    },
+    {
+      "predicate": {
         "custom_model_data": 13133
       },
       "model": "custom/default_axe"
@@ -30,21 +36,27 @@
     },
     {
       "predicate": {
-        "custom_model_data": 72706
+        "custom_model_data": 55883
       },
-      "model": "custom/default_stick"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 75906
-      },
-      "model": "custom/default_necklace"
+      "model": "custom/default_belt"
     },
     {
       "predicate": {
         "custom_model_data": 79561
       },
       "model": "custom/default_helmet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 82562
+      },
+      "model": "custom/default_ring"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 83266
+      },
+      "model": "custom/default_stick"
     }
   ]
 }
