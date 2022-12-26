@@ -6,16 +6,7 @@
       "ascent": 9,
       "height": 10,
       "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "aresrpg:memes/emotes/lumiw.png",
-      "ascent": 9,
-      "height": 10,
-      "chars": [
-        ""
+        "1"
       ]
     },
     {
@@ -24,7 +15,7 @@
       "ascent": 9,
       "height": 20,
       "chars": [
-        ""
+        "2"
       ]
     },
     {
@@ -33,7 +24,7 @@
       "ascent": 9,
       "height": 20,
       "chars": [
-        ""
+        "3"
       ]
     }
   ]
