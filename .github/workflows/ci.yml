@@ -20,8 +20,8 @@ jobs:
       - name: 'Upload Artifact'
         uses: actions/upload-artifact@v2
         with:
-          name: addon
-          path: addon.zip
+          name: ares-public
+          path: ares-public.zip
           retention-days: 5
   publish:
     needs: [build]
@@ -31,7 +31,7 @@ jobs:
       - name: Download addon
         uses: actions/download-artifact@v2
         with:
-          name: addon
+          name: ares-public
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
@@ -48,6 +48,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./addon.zip
-          asset_name: addon.zip
+          asset_path: ./ares-public.zip
+          asset_name: ares-public.zip
           asset_content_type: application/zip
