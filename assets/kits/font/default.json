@@ -1,0 +1,39 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "kits:font/kit0.png",
+      "ascent": 64,
+      "height": 64,
+      "chars": ["\uF801"]
+    },
+    {
+      "type": "bitmap",
+      "file": "kits:font/kit1.png",
+      "ascent": 64,
+      "height": 64,
+      "chars": ["\uF802"]
+    },
+    {
+      "type": "bitmap",
+      "file": "kits:font/kit2.png",
+      "ascent": 64,
+      "height": 64,
+      "chars": ["\uF803"]
+    },
+    {
+      "type": "bitmap",
+      "file": "kits:font/kit3.png",
+      "ascent": 64,
+      "height": 64,
+      "chars": ["\uF804"]
+    },
+    {
+      "type": "bitmap",
+      "file": "kits:font/selected-kit.png",
+      "ascent": 64,
+      "height": 64,
+      "chars": ["\uF805"]
+    }
+  ]
+}
