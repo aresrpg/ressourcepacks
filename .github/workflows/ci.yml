@@ -1,4 +1,3 @@
-
 name: CI
 
 on:
@@ -15,9 +14,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - run: ./build.sh
-      - name: 'Upload Artifact'
+      - name: Upload Artifact
         uses: actions/upload-artifact@v2
         with:
           name: ares-public
@@ -29,7 +28,7 @@ jobs:
     if: startsWith(github.ref, 'refs/tags/')
     steps:
       - name: Download addon
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v3
         with:
           name: ares-public
       - name: Create Release
