@@ -1,121 +1,136 @@
 {
-   "fouet": {
+  "aresrpg.ambient.mirin": {
+    "sounds": [
+      "aresrpg:ambient/mirin"
+    ]
+  },
+  "aresrpg.ambient.thebes": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "aresrpg:ambient/thebes",
+        "stream": true
+      }
+    ]
+  },
+  "aresrpg.ambient.pandala": {
+    "sounds": [
+      "aresrpg:ambient/pandala"
+    ]
+  },
+  "aresrpg.ambient.manracni": {
+    "sounds": [
+      "aresrpg:ambient/manracni"
+    ]
+  },
+  "aresrpg.ambient.farlands": {
+    "sounds": [
+      "aresrpg:ambient/farlands"
+    ]
+  },
+  "aresrpg.ambient.drylands": {
+    "sounds": [
+      "aresrpg:ambient/drylands"
+    ]
+  },
+  "fouet": {
     "sounds": [
       "extra/fouet"
     ]
   },
-
-   "heldall": {
-      "sounds": [
+  "heldall": {
+    "sounds": [
       "extra/heldall"
     ]
   },
-
-   "heldsword": {
-      "sounds": [
+  "heldsword": {
+    "sounds": [
       "extra/heldsword"
     ]
-  },   
-   
-   "swordiron": {
-      "sounds": [
+  },
+  "swordiron": {
+    "sounds": [
       "extra/swordiron"
     ]
   },
-   
-   "sworddiamond": {
-      "sounds": [
+  "sworddiamond": {
+    "sounds": [
       "extra/sworddiamond"
     ]
   },
-     
-   "heart": {
-      "sounds": [
+  "heart": {
+    "sounds": [
       "extra/heart"
     ]
   },
-       
-   "claqueurhit": {
-      "sounds": [
+  "claqueurhit": {
+    "sounds": [
       "extra/claqueurhit"
     ]
   },
-       
-   "claqueurdeath": {
-      "sounds": [
+  "claqueurdeath": {
+    "sounds": [
       "extra/claqueurdeath"
     ]
   },
-         
-   "rohdah": {
-      "sounds": [
+  "rohdah": {
+    "sounds": [
       "extra/rohdah"
     ]
   },
-         
-   "krakendeath": {
-      "sounds": [
+  "krakendeath": {
+    "sounds": [
       "extra/krakendeath"
     ]
   },
-         
-   "krakensay": {
-      "sounds": [
+  "krakensay": {
+    "sounds": [
       "extra/krakensay"
     ]
   },
-         
-   "krakenhit": {
-      "sounds": [
+  "krakenhit": {
+    "sounds": [
       "extra/krakenhit"
     ]
   },
-         
-   "ankrehit": {
-      "sounds": [
+  "ankrehit": {
+    "sounds": [
       "extra/ankrehit"
     ]
   },
-         
-   "roar1": {
-      "sounds": [
+  "roar1": {
+    "sounds": [
       "extra/roar1"
     ]
   },
-         
-   "ankresay": {
-      "sounds": [
+  "ankresay": {
+    "sounds": [
       "extra/ankresay"
     ]
   },
-         
-   "nazgulhit": {
-      "sounds": [
+  "nazgulhit": {
+    "sounds": [
       "extra/nazgulhit"
     ]
   },
-         
-   "nazgulcry": {
-      "sounds": [
+  "nazgulcry": {
+    "sounds": [
       "extra/nazgulcry"
     ]
   },
-         
-   "krahdin": {
-      "sounds": [
+  "krahdin": {
+    "sounds": [
       "extra/krahdin"
     ]
   },
-         
-   "nazguldeath": {
-      "sounds": [
+  "nazguldeath": {
+    "sounds": [
       "extra/nazguldeath"
     ]
   },
-
-   "swordgold": {
+  "swordgold": {
     "sounds": [
-       "extra/swordgold"
+      "extra/swordgold"
     ]
   }
 }
