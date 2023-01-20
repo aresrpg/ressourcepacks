@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-zip -r ares-public assets pack.mcmeta pack.png
+zip -r ares-pack assets pack.mcmeta pack.png
