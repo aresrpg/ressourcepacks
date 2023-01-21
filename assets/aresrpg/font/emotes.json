@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "aresrpg:memes/emotes/ban.png",
+      "file": "aresrpg:emotes/ban.png",
       "ascent": 9,
       "height": 10,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "aresrpg:memes/emotes/sheeeesh.png",
+      "file": "aresrpg:emotes/sheeeesh.png",
       "ascent": 9,
       "height": 20,
       "chars": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "bitmap",
-      "file": "aresrpg:memes/emotes/pepe.png",
+      "file": "aresrpg:emotes/pepe.png",
       "ascent": 9,
       "height": 20,
       "chars": [
