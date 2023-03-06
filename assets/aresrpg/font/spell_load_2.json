@@ -1,0 +1,39 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "aresrpg:hotbar/spell_load_2_0.png",
+      "ascent": -10,
+      "height": 55,
+      "chars": ["0123"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:hotbar/spell_load_2_1.png",
+      "ascent": -10,
+      "height": 55,
+      "chars": ["4567"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:hotbar/spell_load_2_2.png",
+      "ascent": -10,
+      "height": 55,
+      "chars": ["89-="]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:hotbar/spell_load_2_3.png",
+      "ascent": -10,
+      "height": 55,
+      "chars": ["+_ab"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:hotbar/spell_load_2_4.png",
+      "ascent": -10,
+      "height": 55,
+      "chars": ["cdef"]
+    }
+  ]
+}
