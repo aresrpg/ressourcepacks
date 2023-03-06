@@ -12,6 +12,12 @@
     },
     {
       "predicate": {
+        "custom_model_data": 13071
+      },
+      "model": "custom/default_sword"
+    },
+    {
+      "predicate": {
         "custom_model_data": 13133
       },
       "model": "custom/default_axe"
@@ -27,12 +33,6 @@
         "custom_model_data": 22492
       },
       "model": "custom/wolf_gravestone"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 44150
-      },
-      "model": "custom/default_sword"
     },
     {
       "predicate": {

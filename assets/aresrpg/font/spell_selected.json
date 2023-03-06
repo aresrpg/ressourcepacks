@@ -1,0 +1,60 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "aresrpg:hotbar/selected_spell_1.png",
+      "ascent": -10,
+      "height": 55,
+      "chars": ["0123"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:hotbar/selected_spell_2.png",
+      "ascent": -10,
+      "height": 55,
+      "chars": ["4567"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:hotbar/selected_spell_3.png",
+      "ascent": -10,
+      "height": 55,
+      "chars": ["89-="]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:hotbar/selected_spell_4.png",
+      "ascent": -10,
+      "height": 55,
+      "chars": ["+_ab"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:hotbar/selected_spell_5.png",
+      "ascent": -10,
+      "height": 55,
+      "chars": ["cdef"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:hotbar/selected_spell_6.png",
+      "ascent": -10,
+      "height": 55,
+      "chars": ["ghij"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:hotbar/selected_spell_7.png",
+      "ascent": -10,
+      "height": 55,
+      "chars": ["klmn"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:hotbar/selected_spell_8.png",
+      "ascent": -10,
+      "height": 55,
+      "chars": ["opqr"]
+    }
+  ]
+}

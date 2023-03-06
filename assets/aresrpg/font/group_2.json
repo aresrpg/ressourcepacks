@@ -1,0 +1,95 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "aresrpg:group/group_0.png",
+      "ascent": 0,
+      "height": 50,
+      "chars": ["0"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:group/group_1.png",
+      "ascent": 0,
+      "height": 50,
+      "chars": ["1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:group/group_2.png",
+      "ascent": 0,
+      "height": 50,
+      "chars": ["2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:group/group_3.png",
+      "ascent": 0,
+      "height": 50,
+      "chars": ["3"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:group/group_4.png",
+      "ascent": 0,
+      "height": 50,
+      "chars": ["4"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:group/group_5.png",
+      "ascent": 0,
+      "height": 50,
+      "chars": ["5"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:group/group_6.png",
+      "ascent": 0,
+      "height": 50,
+      "chars": ["6"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:group/group_7.png",
+      "ascent": 0,
+      "height": 50,
+      "chars": ["7"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:group/group_8.png",
+      "ascent": 0,
+      "height": 50,
+      "chars": ["8"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:group/group_9.png",
+      "ascent": 0,
+      "height": 50,
+      "chars": ["9"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:group/group_10.png",
+      "ascent": 0,
+      "height": 50,
+      "chars": ["a"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:group/group_dead.png",
+      "ascent": 0,
+      "height": 50,
+      "chars": ["b"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:group/group_leader.png",
+      "ascent": 0,
+      "height": 50,
+      "chars": ["c"]
+    }
+  ]
+}
