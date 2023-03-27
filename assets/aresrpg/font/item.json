@@ -1,0 +1,116 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/tooltip_top_item.png",
+      "ascent": 19,
+      "height": 23,
+      "chars": ["0"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/tooltip_middle_item.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/tooltip_bottom_item.png",
+      "ascent": 8,
+      "height": 15,
+      "chars": ["2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/tooltip_top_set.png",
+      "ascent": 19,
+      "height": 23,
+      "chars": ["3"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/tooltip_middle_set.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["4"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/tooltip_bottom_set.png",
+      "ascent": 8,
+      "height": 15,
+      "chars": ["5"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/tooltip_top_misc.png",
+      "ascent": 19,
+      "height": 23,
+      "chars": ["6"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/tooltip_middle_misc.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["7"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/tooltip_bottom_misc.png",
+      "ascent": 8,
+      "height": 15,
+      "chars": ["8"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/tooltip_top_consumable.png",
+      "ascent": 19,
+      "height": 23,
+      "chars": ["9"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/tooltip_middle_consumable.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["-"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/tooltip_bottom_consumable.png",
+      "ascent": 8,
+      "height": 15,
+      "chars": ["="]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/tooltip_top_relic.png",
+      "ascent": 19,
+      "height": 23,
+      "chars": ["["]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/tooltip_middle_relic.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["]"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/tooltip_bottom_relic.png",
+      "ascent": 8,
+      "height": 15,
+      "chars": ["|"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/type_axe.png",
+      "ascent": 16,
+      "height": 16,
+      "chars": ["a"]
+    }
+  ]
+}
