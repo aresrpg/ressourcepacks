@@ -194,5 +194,6 @@
   "aresrpg:item:tooltip:middle:consumable": "-",
   "aresrpg:item:tooltip:bottom:consumable": "=",
 
-  "aresrpg:item:type:axe": "a"
+  "aresrpg:item:type:axe": "a",
+  "aresrpg:item:chat:prefix": "b"
 }

@@ -111,6 +111,13 @@
       "ascent": 16,
       "height": 16,
       "chars": ["a"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/item_chat_prefix.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["b"]
     }
   ]
 }
