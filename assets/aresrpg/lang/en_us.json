@@ -197,5 +197,6 @@
   "aresrpg:item:tooltip:middle:relic": "]",
   "aresrpg:item:tooltip:bottom:relic": "|",
 
-  "aresrpg:item:type:axe": "a"
+  "aresrpg:item:type:axe": "a",
+  "aresrpg:item:chat:prefix": "b"
 }
