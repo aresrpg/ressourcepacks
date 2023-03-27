@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "aresrpg:group/group_header.png",
+      "ascent": 0,
+      "height": 50,
+      "chars": ["0"]
+    }
+  ]
+}
