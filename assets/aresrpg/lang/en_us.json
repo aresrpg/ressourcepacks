@@ -223,5 +223,16 @@
   "aresrpg:item_type_icon:sword": "i",
   "aresrpg:item_type_icon:wand": "o",
 
+  "aresrpg:item_stat_icon:agility": "0",
+  "aresrpg:item_stat_icon:chance": "1",
+  "aresrpg:item_stat_icon:haste": "2",
+  "aresrpg:item_stat_icon:intelligence": "3",
+  "aresrpg:item_stat_icon:mind": "4",
+  "aresrpg:item_stat_icon:raw_damage": "5",
+  "aresrpg:item_stat_icon:reach": "6",
+  "aresrpg:item_stat_icon:speed": "7",
+  "aresrpg:item_stat_icon:strength": "8",
+  "aresrpg:item_stat_icon:vitality": "9",
+
   "aresrpg:chat_icons:item": "0"
 }
