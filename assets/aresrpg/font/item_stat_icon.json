@@ -1,0 +1,74 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/statistic/agility.png",
+      "ascent": 10,
+      "height": 10,
+      "chars": ["0"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/statistic/chance.png",
+      "ascent": 10,
+      "height": 10,
+      "chars": ["1"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/statistic/haste.png",
+      "ascent": 10,
+      "height": 10,
+      "chars": ["2"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/statistic/intelligence.png",
+      "ascent": 10,
+      "height": 10,
+      "chars": ["3"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/statistic/mind.png",
+      "ascent": 10,
+      "height": 10,
+      "chars": ["4"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/statistic/raw_damage.png",
+      "ascent": 10,
+      "height": 10,
+      "chars": ["5"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/statistic/reach.png",
+      "ascent": 10,
+      "height": 10,
+      "chars": ["6"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/statistic/speed.png",
+      "ascent": 10,
+      "height": 10,
+      "chars": ["7"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/statistic/strength.png",
+      "ascent": 10,
+      "height": 10,
+      "chars": ["8"]
+    },
+    {
+      "type": "bitmap",
+      "file": "aresrpg:item/statistic/vitality.png",
+      "ascent": 10,
+      "height": 10,
+      "chars": ["9"]
+    }
+  ]
+}
