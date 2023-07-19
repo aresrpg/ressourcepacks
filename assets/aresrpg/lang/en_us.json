@@ -108,6 +108,11 @@
   "aresrpg:spell_load:4:2": "e",
   "aresrpg:spell_load:4:3": "f",
 
+  "aresrpg:spell_icon_barbarian:0:0": "0",
+  "aresrpg:spell_icon_barbarian:0:1": "1",
+  "aresrpg:spell_icon_barbarian:0:2": "2",
+  "aresrpg:spell_icon_barbarian:0:3": "3",
+
   "aresrpg:group_header:background": "0",
   "aresrpg:group:0": "0",
   "aresrpg:group:1": "1",

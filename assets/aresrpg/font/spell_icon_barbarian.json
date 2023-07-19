@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "aresrpg:spell/barbarian_0.png",
+      "ascent": -10,
+      "height": 55,
+      "chars": ["0123"]
+    }
+  ]
+}
