@@ -3,6 +3,6 @@
   "parent": "item/handheld",
   "texture_size": [32, 32],
   "textures": {
-    "layer0": "custom/default_axe"
+    "layer0": "aresrpg:item/game/default_bow"
   }
 }

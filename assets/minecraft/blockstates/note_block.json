@@ -1,0 +1,12 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "note": 0
+      },
+      "apply": {
+        "model": "aresrpg:block/phoenix"
+      }
+    }
+  ]
+}
