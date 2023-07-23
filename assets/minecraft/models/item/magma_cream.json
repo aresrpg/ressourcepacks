@@ -12,12 +12,6 @@
     },
     {
       "predicate": {
-        "custom_model_data": 13071
-      },
-      "model": "aresrpg:item/default_sword"
-    },
-    {
-      "predicate": {
         "custom_model_data": 13133
       },
       "model": "aresrpg:item/default_axe"
@@ -39,6 +33,12 @@
         "custom_model_data": 55883
       },
       "model": "aresrpg:item/default_belt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58426
+      },
+      "model": "aresrpg:item/default_sword"
     },
     {
       "predicate": {

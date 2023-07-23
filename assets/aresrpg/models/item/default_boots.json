@@ -1,6 +1,6 @@
 {
   "credit": "AresRPG generated | https://aresrpg.world",
-  "parent": "item/handheld",
+  "parent": "minecraft:item/handheld",
   "texture_size": [32, 32],
   "textures": {
     "layer0": "aresrpg:item/game/default_boots"
